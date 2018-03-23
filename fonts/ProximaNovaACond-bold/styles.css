@@ -1,0 +1,11 @@
+
+@font-face {
+  font-family: 'ProximaNovaACond-Bold';
+  src: url('ProximaNovaACond-Bold.eot?#iefix') format('embedded-opentype'),  
+  url('ProximaNovaACond-Bold.otf')  format('opentype'),
+  url('ProximaNovaACond-Bold.woff') format('woff'), 
+  url('ProximaNovaACond-Bold.ttf')  format('truetype'), 
+  url('ProximaNovaACond-Bold.svg#ProximaNovaACond-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
